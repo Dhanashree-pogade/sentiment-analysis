@@ -1,4 +1,3 @@
-```python
 from flask import Flask, request, render_template_string
 import pickle
 import os
@@ -896,4 +895,4 @@ if __name__ == "__main__":
         )
 
     )
-```
+
